@@ -6,7 +6,7 @@ Analyze traffic accidents reported in the U.S. and determine what cause accident
 Files:  
 USTrafficAccidents.R - R code where analysis was complete.  
 USTrafficAccidents_Report.pdf - PDF of Midterm Report.  
-archive.zip - ZIP of specific data used in this project.
+~~archive.zip - ZIP of specific data used in this project.~~
 
 Data Source:  
 https://smoosavi.org/datasets/us_accidents
