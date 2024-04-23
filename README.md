@@ -11,5 +11,5 @@ USTrafficAccidents_Report.pdf - PDF of Midterm Report.
 Data Source:  
 https://smoosavi.org/datasets/us_accidents
 
-Background:
+Background:  
 This project was completed in Late 2022. This was my first experience using RStudio and as a result I can only imagine how amateurish my work and code are, lol.
